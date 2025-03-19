@@ -1,3 +1,4 @@
-# Friends
-A website for memories
-<br>Published at https://rajesh-dot.github.io/Friends/ <br>
+# riniel-birthday-website
+ Happy birthday Riniel <3
+
+turn on the audio btw
